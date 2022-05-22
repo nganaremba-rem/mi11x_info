@@ -24,6 +24,8 @@
 > ###Command: 
 ```bash
 fastboot flash boot recovery.img
+```
+```bash
 fastboot boot recovery.img
 ```
 ## Flashing ROM
