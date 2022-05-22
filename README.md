@@ -29,10 +29,11 @@ fastboot boot recovery.img
 ## Flashing ROM
 
 > 1. Format Data
-> 2. Flash Custom Rom along with RECOVERY again.
-> 3. Reboot to recovery and FLASH DFE.zip
-> 4. Wipe Data.
-> 5. Reboot
+> 2. Flash Firmware (Optional. Recommended for first time if Android version isn't same)
+> 3. Flash Custom Rom along with RECOVERY again.
+> 4. Reboot to recovery and FLASH DFE.zip
+> 5. Wipe Data.
+> 6. Reboot
 
 (Boot to recovery again after first boot to flash GApps or other addon)
 
