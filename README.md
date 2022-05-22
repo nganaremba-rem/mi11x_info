@@ -15,7 +15,9 @@
 
 >2. Using platform tools 
 >https://dl.google.com/android/repository/platform-tools-latest-windows.zip (Windows)
+
 >https://dl.google.com/android/repository/platform-tools-latest-darwin.zip (Mac OS)
+
 >https://dl.google.com/android/repository/platform-tools-latest-linux.zip (Linux)
 
 > Command: 
