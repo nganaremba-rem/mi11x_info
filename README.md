@@ -1,10 +1,11 @@
 # mi11x_info
- Requirement
-  i. Custom Rom.
-  ii. Firmware compatible with your custom rom android version (https://xiaomifirmwareupdater.com/firmware/)
-  iii. DFE (To disable force encryption)
-  iv. GApps (optional)
-  v. Magisk (https://github.com/topjohnwu/Magisk/releases)
+
+# Requirement
+1. Custom Rom.
+2. Firmware compatible with your custom rom android version (https://xiaomifirmwareupdater.com/firmware/)
+3. DFE (To disable force encryption)
+4. GApps (optional)
+5. Magisk (https://github.com/topjohnwu/Magisk/releases)
   
 
 # Unlock Bootloader is same other.
